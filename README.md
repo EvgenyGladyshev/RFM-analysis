@@ -6,10 +6,10 @@
 
 Для решения этой задачи мной был проведен RFM-анализ клиентской базы аптечной сети. В этот репозиторий включил:
 
-- [SQL-запрос рассчета основных показателей и составления групп]()
-- [Скрипт подключения к БД]()(SQL-запрос написан для *PostgreSQL*)
-- [Визуализация основных показателей, а также таблицы RFM-анализа с помощью BI-системы Metabase]()
-- [Бизнес-выводы и рекомендации]()
+- [SQL-запрос рассчета основных показателей и составления групп](https://github.com/EvgenyGladyshev/RFM-analysis/blob/master/rfm_analysis.sql)
+- [Скрипт подключения к БД](https://github.com/EvgenyGladyshev/RFM-analysis/blob/master/rfm_analysis.py)(SQL-запрос написан для *PostgreSQL*)
+- [Визуализация основных показателей, а также таблицы RFM-анализа с помощью BI-системы Metabase](https://github.com/EvgenyGladyshev/RFM-analysis/blob/master/dashboard.md)
+- [Бизнес-выводы и рекомендации](https://github.com/EvgenyGladyshev/RFM-analysis/blob/master/insights.md)
 
 
 
