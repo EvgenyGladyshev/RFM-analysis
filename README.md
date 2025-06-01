@@ -26,6 +26,6 @@ python -m venv rfm_analysis
 # Устанавливаем зависимости
 pip install -r requirements.txt
 
-# Запускаем скрипт генерации файлов
+# Запускаем скрипт
 python rfm_analysis.py
 ```
